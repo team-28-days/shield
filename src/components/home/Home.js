@@ -1,9 +1,9 @@
 import React from 'react';
-
+import Map from '../map/Map';
 const Home = () => (
   <div>
-    <h2>Home</h2>
-    This is the Home page
+    <h2>Map</h2>
+    <Map />
   </div>
 );
 

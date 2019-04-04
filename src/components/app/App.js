@@ -20,7 +20,7 @@ class App extends Component {
       <div className={styles.App}>
         <header className={styles.AppHeader}>
           <img src={logo} className={styles.Applogo}alt="Outbreak-finder-logo" />
-          <h1 className="App-title">Outbreak Finder</h1>
+          <h1 className={styles.AppTitle}>Outbreak Finder</h1>
         </header>
         <div className={styles.menu}>
           <ul>

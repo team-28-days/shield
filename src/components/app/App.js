@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from '../../assets/logo.png';
-import './App.css';
+import styles from './App.css';
 import 'normalize.css';
 import { 
   Route,
@@ -17,12 +17,12 @@ import Vaccinationinfo from '../vaccinationinfo/Vaccinationinfo';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="Outbreak-finder-logo" />
+      <div className={styles.App}>
+        <header className={styles.AppHeader}>
+          <img src={logo} className={styles.Applogo}alt="Outbreak-finder-logo" />
           <h1 className="App-title">Outbreak Finder</h1>
         </header>
-        <div className="menu">
+        <div className={styles.menu}>
           <ul>
             <li> <Link to="/">Home</Link> </li>
             <li> <Link to="/Learnmore">Learn More</Link> </li>

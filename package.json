@@ -29,6 +29,7 @@
   "dependencies": {
     "copy-webpack-plugin": "^5.0.2",
     "dotenv-webpack": "^1.7.0",
+    "mapbox-gl": "^0.53.1",
     "normalize.css": "^8.0.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",

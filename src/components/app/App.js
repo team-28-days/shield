@@ -9,7 +9,7 @@ import {
   Redirect
 }  from 'react-router-dom';
 
-import Home from './components/Home';
+import Home from './components/home/Home';
 import Learnmore from './components/learn/Learn';
 import Diseaseinfo from './components/diseaseinfo/Diseaseinfo';
 import Vaccinationinfo from './components/vaccinationinfo/Vaccinationinfo';

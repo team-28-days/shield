@@ -1,0 +1,40 @@
+.container {
+  margin: 3.5% 15% 5%;
+  text-align: left;
+  font-size: 18px;
+}
+
+.vaxheader {
+  text-align: center;
+  font-size: 2em;
+  font-weight: bold;
+
+}
+
+.vaxsubheader {
+  font-size: 1.5em;
+  font-weight: bold;
+
+}
+
+.vaxcontent {
+  line-height: 1.5;
+
+}
+
+.vaxlink {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.vaxlink:hover, .vaxlink:focus {
+  text-decoration: underline;
+}
+
+@media (max-width: 1080px) {
+  .container {
+    margin: 5%;
+    text-align: left;
+    font-size: 16px;
+  }
+}

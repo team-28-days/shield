@@ -51,7 +51,7 @@ class Map extends PureComponent {
       <MapBox
         style="mapbox://styles/mapbox/outdoors-v10"
         center={[-122.634903, 45.530107]}
-        zoom={[9]}
+        zoom={[8]}
         containerStyle={{
           height: 'calc(100vh - 130px)',
           width: '0'

@@ -9,18 +9,14 @@
 
 .App-Header {
   background-color: #222;
-  float: left;  
   height: 25%;
-  padding: 4em;
   color: white;
 }
 
-.App-title {
-  text-transform:uppercase;
+.AppTitle {
+  text-transform: uppercase;
   font-size: 1.5em;
   position: relative;
-  top: 10%;
-  left:10%;
 }
 
 ul {

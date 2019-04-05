@@ -1,9 +1,15 @@
 import React from 'react';
+import Map from '../map/Map';
+import styles from './Home.css';
+
+
 
 const Home = () => (
-  <div>
-    <h2>Home</h2>
-    This is the Home page
+  <div className={styles.Map}>
+    <h2>Map</h2>
+    <div className={styles.MapContainer}>
+      <Map />
+    </div>
   </div>
 );
 

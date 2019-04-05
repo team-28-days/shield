@@ -1,6 +1,7 @@
 import React, { PureComponent } from 'react';
 import ReactMapboxGl, { Layer, Feature } from 'react-mapbox-gl';
 
+
 const MapBox = ReactMapboxGl({
   accessToken: 'pk.eyJ1IjoibGFuY2VvbSIsImEiOiJjanUzMnJ4OW0wajEzNDNxdnh2ZG5ocXR6In0.3EFZBsL6gGw9kFVNbRPmTQ'
 });

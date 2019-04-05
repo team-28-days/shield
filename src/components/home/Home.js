@@ -6,7 +6,6 @@ import styles from './Home.css';
 
 const Home = () => (
   <div className={styles.Map}>
-    <h2>Map</h2>
     <div className={styles.MapContainer}>
       <Map />
     </div>

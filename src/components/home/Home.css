@@ -3,10 +3,18 @@
   margin: auto 0;
 }
 .MapContainer {
-  display:flex;
+  display: flex;
   align-content: center;
   background-color: #222;
   width: 0%;
-  height:200%;
+  height: 200%;
   color: white;
+}
+
+.form {
+  padding: 10px;
+
+  select {
+    border: black solid 1px;
+  }
 }

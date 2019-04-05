@@ -1,11 +1,11 @@
-.MapContainer {
-  margin: 2em;
-  display: block;
-  background-color: #222;
-  width: 50%;
- 
-  color: white;
+.Map {
+  width: 0%;
 }
-.element {
-  all: none;
+.MapContainer {
+  display:flex;
+ 
+  background-color: #222;
+  width: 0%;
+  height:200%;
+  color: white;
 }

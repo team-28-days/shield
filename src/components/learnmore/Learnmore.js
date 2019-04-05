@@ -1,7 +1,8 @@
 import React from 'react';
+import styles from './learnmore.css';
 
 const Learnmore = () => (
-  <div>
+  <div className={styles.learnMore}>
     <h2>Additional Resources</h2>
     <h3>Centers for Disease Control and Prevention</h3>
     <a href="https://www.cdc.gov/measles/index.html">CDC: Measles</a>

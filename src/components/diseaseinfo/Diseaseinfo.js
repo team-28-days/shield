@@ -1,7 +1,8 @@
 import React from 'react';
+import styles from './diseaseInfo.css';
 
 const Diseaseinfo = () => (
-  <div>
+  <div className={styles.info}>
     <h2>Disease Info</h2>
     <h3>What is measles?</h3>
     <p>Measles is a serious respiratory disease that causes a rash and fever. 

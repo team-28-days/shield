@@ -1,7 +1,8 @@
 import React from 'react';
+import styles from './vaccinationInfo.css';
 
 const Vaccinationinfo = () => (
-  <div>
+  <div className={styles.info}>
     <h2>Vaccination Info</h2>
     <h3>Measles, Mumps, and Rubella Vaccine (MMR)</h3>
     <p>You can protect yourself or your child against measles 

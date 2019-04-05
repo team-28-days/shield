@@ -39,6 +39,8 @@
         "duration": "Tuesday, Mar. 19, 12:30–3:00 p.m.",
         "coordinates": [44.855001, -122.999559]
       },
+
+
     {"location": "DESCHUTES COUNTY", "specific_location": "Juniper Swim and Fitness Center", "address": "800 NE 6th St, Bend, OR 97701", "start_date": "Sunday, Jan. 20", "duration": "Sunday, Jan. 20, from 9:30 a.m. to 4:00 p.m.", "coordinates": [44.057400, -121.296257]},
     {"location": "DESCHUTES COUNTY", "specific_location": "Mountain Air", "address": "20495 Murray Rd, Suite 150, Bend, OR 97701", "start_date": "Saturday, Jan. 19", "duration": "Saturday, Jan. 19, from 9:30 a.m. to 2:30 p.m.", "coordinates": [44.083735, -121.299336]},
     {"location": "MARION COUNTY", "specific_location": "Get Air Trampoline Park", "address": "3910 Rickey St. SE, Salem, OR 97317", "start_date": "Thursday, Feb. 21", "duration": "Thursday, Feb. 21, from 1:45 p.m. to 5:00 p.m.", "coordinates": [44.915810, -122.975366]},

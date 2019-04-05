@@ -1,0 +1,95 @@
+[
+  {
+      "location": "CLARK COUNTY",
+      "specific_location": "PeaceHealth Urgent Care",
+      "address": "3400 Main St.",
+      "count":"2",
+      "coordinates": [40.386539, -79.903087]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "The Vancouver Clinic",
+      "address": "700 NE 87th Ave",
+      "count":"7",
+      "coordinates":  [45.627360, -122.583767]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Magnolia Family Clinic",
+      "address": "2207 NE Broadway, Suite 200 ",
+      "count":"1",
+      "coordinates": [45.535246, -122.642674]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Kaiser Cascade Park Medical Office",
+      "address": "12607 SE Mill Plain Blvd. ",
+      "count":"3",
+      "coordinates": [45.618216,-122.541790]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "PeaceHealth Southwest Medical Center Emergency Department",
+      "address": "400 NE Mother Joseph Place ",
+      "count":"4",
+      "coordinates": [45.624374,-122.581049]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Legacy Salmon Creek Medical Center Emergency Department",
+      "address": "",
+      "count":"3",
+      "coordinates": [45.720713,-122.644805]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Legacy Go Health",
+      "address": "",
+      "count":"4",
+      "coordinates": [45.619705,-122.552781]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Rose Urgent Care and Family Practice",
+      "address": "",
+      "count":"1",
+      "coordinates": [45.782210,-122.558213]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "Kaiser Orchards Medical Office",
+      "address": "",
+      "count":"2",
+      "coordinates": [45.673431,-122.531168]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "The Vancouver Clinic Salmon Creek",
+      "address": "2525 NE 139th St., Vancouver",
+      "count":"3",
+      "coordinates": [45.673431,-122.531168]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "The Vancouver Clinic Salmon Creek",
+      "address": "2525 NE 139th St., Vancouver",
+      "count":"3",
+      "coordinates": [45.720713,-122.644805]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "The Vancouver Clinic Salmon Creek",
+      "address": "2525 NE 139th St., Vancouver",
+      "count":"1",
+      "coordinates": [45.596772,-122.503817]
+    },
+    {
+      "location": "CLARK COUNTY",
+      "specific_location": "The Vancouver Clinic Salmon Creek",
+      "address": "2525 NE 139th St., Vancouver",
+      "count":"1",
+      "coordinates": [45.626811,-122.669462]
+    }
+  ]
+
+

@@ -3,7 +3,7 @@
 }
 .MapContainer {
   display:flex;
- align-content: center;
+  align-content: center;
   background-color: #222;
   width: 0%;
   height:200%;

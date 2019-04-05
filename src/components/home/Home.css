@@ -1,0 +1,11 @@
+.Map {
+  width: 0%;
+}
+.MapContainer {
+  display:flex;
+ 
+  background-color: #222;
+  width: 0%;
+  height:200%;
+  color: white;
+}

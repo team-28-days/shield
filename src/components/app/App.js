@@ -5,8 +5,7 @@ import 'normalize.css';
 import { 
   Route,
   Link,
-  Switch,
-  Redirect
+  Switch
 }  from 'react-router-dom';
 
 import Home from '../home/Home';
@@ -36,7 +35,7 @@ class App extends Component {
             <Route path="/learnmore" component={Learnmore} />
             <Route path="/diseaseinfo" component={Diseaseinfo} />
             <Route path="/vaccinationinfo" component={Vaccinationinfo} />
-            <Redirect to="/" />
+           
           </Switch>
         </div>
       </div>
